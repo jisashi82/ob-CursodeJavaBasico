@@ -10,9 +10,7 @@ public class Funciones {
 		double total = calcularTotal(precio, iva);		
 		System.out.println(total);
 		
-		
-		
-		
+				
 		double precio2 = 100;
 		var iva2= 11;
 		
